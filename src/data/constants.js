@@ -84,9 +84,9 @@ export const EVENTS = [
     month: "Mar 2026",
   },
   {
-    title: "MEDCON 2027",
+    title: "MED7",
     category: "Annual Conference",
-    location: "Gurugram, India",
+    location: "Dbaia",
     delegates: "5,000+",
     color: "#2ec87d",
     month: "Feb 2027",
