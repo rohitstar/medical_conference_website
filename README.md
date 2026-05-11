@@ -15,9 +15,10 @@ This project is designed for medical events, healthcare summits, scientific conf
 
 ### Page
 
-![alt text](image.png)
+<img width="1512" height="729" alt="image" src="https://github.com/user-attachments/assets/1841996d-9430-4bea-b3c1-cafec17e61fd" />
 
-![alt text](image-1.png)
+<img width="1512" height="740" alt="image" src="https://github.com/user-attachments/assets/01c2730a-8ebf-4931-bf99-f6c1ff5b45d1" />
+
 
 ![alt text](image-2.png)
 
@@ -30,9 +31,6 @@ This project is designed for medical events, healthcare summits, scientific conf
 - Smooth Animations & Effects
 - Interactive User Experience
 - Conference Information Sections
-- Speaker Showcase
-- Event Schedule Layout
-- Registration Call-to-Action
 - Optimized Performance
 - Clean & Scalable Code Structure
 
@@ -123,20 +121,6 @@ This project is deployed on Vercel.
 ### Live URL
 
 https://medical-conference-website.vercel.app/
-
-### Deploy on Vercel
-
-Install Vercel globally:
-
-```bash
-npm install -g vercel
-```
-
-Deploy project:
-
-```bash
-vercel
-```
 
 ---
 
