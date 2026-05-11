@@ -50,6 +50,7 @@ export default function Footer() {
             </p>
             <div style={{ display: "flex", gap: 10 }}>
               {["📘", "📷", "💼", "▶️"].map((icon, i) => (
+                // eslint-disable-next-line jsx-a11y/anchor-is-valid
                 <a
                   key={i}
                   href="#"

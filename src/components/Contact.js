@@ -151,6 +151,7 @@ export default function Contact() {
                 ["▶️", "YT"],
                 ["𝕏", "TW"],
               ].map(([icon, label]) => (
+                // eslint-disable-next-line jsx-a11y/anchor-is-valid
                 <a
                   key={label}
                   href="#"
